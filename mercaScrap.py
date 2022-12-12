@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-#By: Zanderc0de
+#By: lughz4n
 
 import os
 import time
@@ -246,7 +246,7 @@ def scraping(nombre_producto,n_productos,envio,v_max,v_min):
             {color_azul}Titulo: {color_blanco}{titulo.text}
             {color_azul}Precio: {color_blanco}{precio.text}
             {color_azul}Costo de Envio: {color_blanco}{envio}
-            {color_azul}Link Publicacion: {color_blanco}{acortar_url(link)}
+            {color_azul}Link Publicacion: {Fore.LIGHTCYAN_EX}{acortar_url(link)}
             ''')
 
 #FUNCIÒN INICIAL
