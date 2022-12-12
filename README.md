@@ -3,11 +3,11 @@ Programa para consultar articulos a MercadoLibre (solo colombia), y aplicar algu
 ## No hay necesidad de hacer login o algo parecido
 ## No uses red Tor, puede dar error
 ## Instalación
-```
-<ol>
+
+<ul>
 <li>git clone https://GitHub.com/lughz4n/mercaScrap</li>
 <li>cd mercaScrap</li>
 <li>pip3 install -r requirements.txt</li>
 <li>python3 mercaScrap.py</li>
-</ol>
-```
+</ul>
+
